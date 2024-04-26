@@ -5,8 +5,8 @@
 #include "../Public/MyPlayerController.h"
 #include "GameFramework/FloatingPawnMovement.h"
 #include "Engine/World.h"
-#include "C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputComponent.h"
-#include "C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystems.h"
+#include "EnhancedInputComponent.h"
+#include "EnhancedInputSubsystems.h"
 
 // Sets default values
 AMyFirstPersonPawn::AMyFirstPersonPawn()

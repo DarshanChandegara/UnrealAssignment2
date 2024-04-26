@@ -6,9 +6,9 @@
 #include "GameFramework/PlayerController.h"
 #include "Engine/DataTable.h"
 #include "MyPawnAttributesDataAsset.h"
-#include "C:\Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputAction.h"
-#include "C:\Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputMappingContext.h"
-#include "C:\Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputModifiers.h"
+#include "InputAction.h"
+#include "InputMappingContext.h"
+#include "InputModifiers.h"
 #include "MyPlayerController.generated.h"
 
 UENUM()

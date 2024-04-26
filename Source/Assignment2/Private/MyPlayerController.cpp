@@ -35,7 +35,7 @@ void AMyPlayerController::SetupInputComponent()
 void AMyPlayerController::BeginPlay()
 {
 	Super::BeginPlay();
-	//GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Green, "player");
+	GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, "Press P KEY To Possees and Toggle Another Character"); 
 	spawn();
 }
 

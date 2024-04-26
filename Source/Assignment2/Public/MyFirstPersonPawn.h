@@ -8,9 +8,9 @@
 #include "Camera/CameraComponent.h" 
 #include "MyBaseCharacter.h"
 #include "Components/CapsuleComponent.h"
-#include "C:\Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputAction.h"
-#include "C:\Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputMappingContext.h"
-#include "C:\Program Files/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputModifiers.h"
+#include "InputAction.h"
+#include "InputMappingContext.h"
+#include "InputModifiers.h"
 #include "MyFirstPersonPawn.generated.h"
 
 UCLASS()
